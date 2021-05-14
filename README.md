@@ -6,10 +6,10 @@
 <div align="center">
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CheoneunSin&theme=dark&show_icons=true)
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongJaeSoon&layout=compact&count_private=true&langs_count=10)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CheoneunSin&layout=compact&count_private=true&langs_count=10)
 
 </div>
